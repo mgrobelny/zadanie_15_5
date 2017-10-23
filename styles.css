@@ -1,0 +1,29 @@
+body {
+	background-color: black;
+	color: lightgray;
+	font-family: Calibri;
+}
+input, label, form {
+	text-align: center;
+	margin-right: 10px;
+}
+input {
+	margin-bottom: 50px;
+	color: gray;
+}
+#githublogo {
+	height: 60px;
+	margin: 0 auto;
+	display: block;
+	padding: 20px;
+}
+a {
+	color: lightgray;
+	line-height: 40px;
+}
+
+#portrait {
+	margin-top: 20px;
+	display: block;
+	margin: 0 auto;
+}
